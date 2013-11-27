@@ -11,8 +11,8 @@ thread = Thread.new {
 }
 
 sleep(10)
-                             awdawd
-puts "Stopping the monitor..."
+
+puts "Stopping the monitawddwor..."
 
 monitor.stop
 thread.join
